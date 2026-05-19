@@ -1,4 +1,4 @@
-# AxonNova - Neural Intelligence Framework 🧠
+# AxonNova - Neural Intelligence Framework 
 
 **AxonNova** is a next-generation neural intelligence framework designed to bridge the gap between static
 AI models and dynamic, real-world applications. Specifically optimized for
@@ -7,7 +7,7 @@ and contextual memory to provide real-time, explainable, and safe neural signal 
 
 ---
 
-## 🚀 Core Innovations
+##  Core Innovations
 
 ### 1. Dynamic Synaptic Scaling
 
@@ -53,7 +53,7 @@ The AxonNova framework is organized into the following modular structure:
   - `index.html`: The frontend dashboard interface.
   - `script.js` & `style.css`: The client-side logic for real-time charting, signal visualization, and UI styling.
 
-## 📊 Dashboard & Visualization
+##  Dashboard & Visualization
 
 The AxonNova Web Dashboard provides a real-time window into the framework's brain:
 
@@ -77,7 +77,7 @@ The AxonNova Web Dashboard provides a real-time window into the framework's brai
 
 ---
 
-### 🎯 Performance Metrics
+###  Performance Metrics
 
 Accuracy: ~78.2% on synthetic neural validation sets.
 
@@ -89,7 +89,7 @@ Adaptability: Dynamic complexity scoring (0.0 to 1.0).
 
 ---
 
-### 🌿 Sustainability
+###  Sustainability
 
 AxonNova is built with "Green AI" principles. By deactivating unnecessary neurons and layers during
 low-complexity inputs, the framework reduces computational waste by up to 42% compared to static dense networks.
